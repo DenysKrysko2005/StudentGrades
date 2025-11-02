@@ -1,0 +1,4 @@
+Name Surname HW1 HW2 HW3 HW4 HW5 Exam
+John Doe 8 9 10 6 10 9
+Jane Smith 7 10 8 5 4 6
+Alice Brown 9 8 10 7 10 10
